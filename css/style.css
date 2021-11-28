@@ -1,0 +1,53 @@
+
+  body{
+    text-align:center;
+    font-family: Play,"Trebuchet MS",sans-serif;
+    background-color: #F7F6F2;
+  }
+    h1, h3{
+    color: #7D5C0D;
+  }
+
+  hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+  }
+
+  input, button, textarea{
+    border-radius: 25px;
+  }
+
+  .ProfilePicture{
+    width: 300px;
+    height: 300px;
+  }
+
+  .footerHr{
+    width: 2%;
+  }
+
+  .endHr{
+    width: 1%;
+  }
+
+.yearB{
+  color: #7D5C0D;
+}
+
+.content{
+  margin: 50px;
+  line-height: 1.5em;
+}
+
+#hobbies{
+  list-style: none;
+  padding: 10px;
+}
+
+.inputClass, .textareaClass, .labelClass{
+  padding: 10px;
+  margin: 10px;
+}
